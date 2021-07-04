@@ -1,0 +1,16 @@
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\bin\Debug\net5.0\EmployeeWageFinalSolution.exe
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\bin\Debug\net5.0\EmployeeWageFinalSolution.deps.json
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\bin\Debug\net5.0\EmployeeWageFinalSolution.runtimeconfig.json
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\bin\Debug\net5.0\EmployeeWageFinalSolution.runtimeconfig.dev.json
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\bin\Debug\net5.0\EmployeeWageFinalSolution.dll
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\bin\Debug\net5.0\ref\EmployeeWageFinalSolution.dll
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\bin\Debug\net5.0\EmployeeWageFinalSolution.pdb
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\EmployeeWageFinalSolution.csproj.AssemblyReference.cache
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\EmployeeWageFinalSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\EmployeeWageFinalSolution.AssemblyInfoInputs.cache
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\EmployeeWageFinalSolution.AssemblyInfo.cs
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\EmployeeWageFinalSolution.csproj.CoreCompileInputs.cache
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\EmployeeWageFinalSolution.dll
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\ref\EmployeeWageFinalSolution.dll
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\EmployeeWageFinalSolution.pdb
+C:\Users\Radhika\source\repos\EmployeeWageFinalSolution\EmployeeWageFinalSolution\obj\Debug\net5.0\EmployeeWageFinalSolution.genruntimeconfig.cache
